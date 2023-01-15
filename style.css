@@ -3,7 +3,7 @@
   }
   body { 
     margin: 10px;
-    font-family: Garamond;
+    font-family: 'Times New Roman', Times, serif;
     background-color:lightpink;
       
   }
@@ -78,7 +78,7 @@
     display: flex;
     align-items: flex-end;
     justify-content: center;
-    font-family:'Times New Roman', Times, serif;
+    
   }
 
   :root {
@@ -173,6 +173,8 @@
   h2 {
     text-align: justify;
     margin: 20px;
+    font-size: 20px;
+    
   }
 
   p {
